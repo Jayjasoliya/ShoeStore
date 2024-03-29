@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Group11</name>
+    <description>Final project of PROG2435_Group11</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <author>
+        Harmeen Kaur(8885264), Jay Jasoliya(8862212), Rutvi Mistry(8889104)
+    </author>
+    <content src="index.html" />
+    <icon src="www/img/icon.jpg" platform="android"  width="57" height="57" density="mdpi"/>
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
